@@ -37,7 +37,10 @@ We've created a cocos2d-x extension and an example project:
 
 ## Getting Started
 
-1. As with all Cocos2d-x projects, you need to clone the Cocos2d-x framework from [here](https://github.com/cocos2d/cocos2d-x) or download it from the [Cocos2d-x website](http://www.cocos2d-x.org/download). If you decided to clone the git repository, make sure you're using the **2.1.4** tag.
+1. As with all Cocos2d-x projects, you need to clone the Cocos2d-x framework from [here](https://github.com/cocos2d/cocos2d-x) or download it from the [Cocos2d-x website](http://www.cocos2d-x.org/download). 
+
+> If you decided to clone the git repository, make sure you're using the **2.1.4** tag.
+
 2. Recursively clone this repository into the `extensions` directory located at the root of your Cocos2d-x framework.
 
 ```
